@@ -1,0 +1,132 @@
+{
+	"Ads": [
+		{
+			"select_main_ads": "none",
+			"select_backup_ads": "APPLOVIN-M",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "db4d5e8718b97d78",
+			"backup_ads_intertitial": "518cd97722c60b52",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"open_ads_alien": "",
+			"switch_open_ads": "1",
+			"switch_banner_natives_ads": "1",
+			"interval_intertitial": 2,
+			"initialize_sdk": "107355779",
+			"initialize_sdk_backup_ads": "123456",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "Khalid Basalamah",
+			"image": "https://drive.google.com/uc?export=view&id=1Gmu6d4rJqoi1OZxZXQHm_lyfHkt2keA_"
+		},
+		{
+			"id": 2,
+			"name_category": "Hanan Attaki",
+			"image": "https://drive.google.com/uc?export=view&id=1r5dWsGX1YYRX1C2xwBESL92OatKVHmdl"
+		},
+		{
+			"id": 3,
+			"name_category": "Mr. Kim",
+			"image": "https://drive.google.com/uc?export=view&id=1TGT6H9mCdw48HKSkb2MRPg-dITCYuQBT"
+		},
+		{
+			"id": 4,
+			"name_category": "Ammi Nur Bait",
+			"image": "https://drive.google.com/uc?export=view&id=1r5dWsGX1YYRX1C2xwBESL92OatKVHmdl"
+		},
+		{
+			"id": 5,
+			"name_category": "Adi Hidayat",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "Kurdish Songs",
+			"title": "Track 1",
+			"image": "https://drive.google.com/uc?export=view&id=1Gmu6d4rJqoi1OZxZXQHm_lyfHkt2keA_",
+			"link_mp3": "https://drive.google.com/uc?export=view&id=1ZCSy2QySoC0yI0jROtx7b8LXEKFbP_kh",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Kurdish Songs",
+			"title": "Track 2",
+			"image": "https://drive.google.com/uc?export=view&id=1Gmu6d4rJqoi1OZxZXQHm_lyfHkt2keA_",
+			"link_mp3": "https://drive.google.com/uc?export=view&id=1eaZY8eA8IpEsSIkU-gCzI56FA_-QomsC",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Kurdish Songs",
+			"title": "Track 3",
+			"image": "https://drive.google.com/uc?export=view&id=1r5dWsGX1YYRX1C2xwBESL92OatKVHmdl",
+			"link_mp3": "https://drive.google.com/uc?export=view&id=1uYYFTSdVEwhrQJR-fS1qhfgB2HixjHU2",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Kurdish Songs",
+			"title": "Track 4",
+			"image": "https://drive.google.com/uc?export=view&id=1r5dWsGX1YYRX1C2xwBESL92OatKVHmdl",
+			"link_mp3": "https://drive.google.com/uc?export=view&id=1983hErKqVtMIAUVxN3oeVXgeiijpFHHS",
+			"lyrics": ""
+		},
+		{
+			"id": 5,
+			"name_category": "Kurdish Songs",
+			"title": "Track 5",
+			"image": "https://drive.google.com/uc?export=view&id=1TGT6H9mCdw48HKSkb2MRPg-dITCYuQBT",
+			"link_mp3": "https://drive.google.com/uc?export=view&id=1cRAhGeWxxWiZygmAzoFMwyh3IAYJMNbd",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Kurdish Songs",
+			"title": "Track 6",
+			"image": "https://drive.google.com/uc?export=view&id=1TGT6H9mCdw48HKSkb2MRPg-dITCYuQBT",
+			"link_mp3": "https://drive.google.com/uc?export=view&id=1cRAhGeWxxWiZygmAzoFMwyh3IAYJMNbd",
+			"lyrics": ""
+		},
+		{
+			"id": 7,
+			"name_category": "Kurdish Songs",
+			"title": "Track 7",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://drive.google.com/uc?export=view&id=1jyUJmgHgCdwO5V4PK4M0iVP-ctw6aZ4s",
+			"lyrics": ""
+		},
+		{
+			"id": 8,
+			"name_category": "Kurdish Songs",
+			"title": "Track 8",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://drive.google.com/uc?export=view&id=1SDjaUw96xWiGgf1K9Ug5EbsK5-FGj82v",
+			"lyrics": ""
+		},
+		{
+			"id": 9,
+			"name_category": "Kurdish Songs",
+			"title": "Track 9",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://drive.google.com/uc?export=view&id=1Ze1O3LZ433_1yHTfKvTctAwcxs_CUNSI",
+			"lyrics": ""
+	
+		}
+	]
+}
