@@ -60,7 +60,7 @@
 			"name_category": "Kurdish Songs",
 			"title": "Track 1",
 			"image": "https://drive.google.com/uc?export=view&id=1Gmu6d4rJqoi1OZxZXQHm_lyfHkt2keA_",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1ZCSy2QySoC0yI0jROtx7b8LXEKFbP_kh",
+			"link_mp3": "https://dl2.kourdmusic.com/mp3/4_6048844064931972932.mp3",
 			"lyrics": ""
 		},
 		{
@@ -68,7 +68,7 @@
 			"name_category": "Kurdish Songs",
 			"title": "Track 2",
 			"image": "https://drive.google.com/uc?export=view&id=1Gmu6d4rJqoi1OZxZXQHm_lyfHkt2keA_",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1eaZY8eA8IpEsSIkU-gCzI56FA_-QomsC",
+			"link_mp3": "https://dl2.kourdmusic.com/mp3/taimor-namazi.mp3",
 			"lyrics": ""
 		},
 		{
@@ -76,7 +76,7 @@
 			"name_category": "Kurdish Songs",
 			"title": "Track 3",
 			"image": "https://drive.google.com/uc?export=view&id=1r5dWsGX1YYRX1C2xwBESL92OatKVHmdl",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1uYYFTSdVEwhrQJR-fS1qhfgB2HixjHU2",
+			"link_mp3": "https://dl2.kourdmusic.com/mp3/Peshraw_Hawramy_Lakwe_Gwlm_Saliady.mp3",
 			"lyrics": ""
 		},
 		{
@@ -84,7 +84,7 @@
 			"name_category": "Kurdish Songs",
 			"title": "Track 4",
 			"image": "https://drive.google.com/uc?export=view&id=1r5dWsGX1YYRX1C2xwBESL92OatKVHmdl",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1983hErKqVtMIAUVxN3oeVXgeiijpFHHS",
+			"link_mp3": "https://dl2.kourdmusic.com/mp3/peshraw%20hawramy_koa.mp3",
 			"lyrics": ""
 		},
 		{
@@ -92,7 +92,7 @@
 			"name_category": "Kurdish Songs",
 			"title": "Track 5",
 			"image": "https://drive.google.com/uc?export=view&id=1TGT6H9mCdw48HKSkb2MRPg-dITCYuQBT",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1cRAhGeWxxWiZygmAzoFMwyh3IAYJMNbd",
+			"link_mp3": "https://dl2.kourdmusic.com/d1/2/farzad2.mp3",
 			"lyrics": ""
 		},
 		{
@@ -100,7 +100,7 @@
 			"name_category": "Kurdish Songs",
 			"title": "Track 6",
 			"image": "https://drive.google.com/uc?export=view&id=1TGT6H9mCdw48HKSkb2MRPg-dITCYuQBT",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1cRAhGeWxxWiZygmAzoFMwyh3IAYJMNbd",
+			"link_mp3": "https://dl2.kourdmusic.com/d1/hasankarami/hasan%20karami1.mp3",
 			"lyrics": ""
 		},
 		{
@@ -108,7 +108,7 @@
 			"name_category": "Kurdish Songs",
 			"title": "Track 7",
 			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1jyUJmgHgCdwO5V4PK4M0iVP-ctw6aZ4s",
+			"link_mp3": "https://dl2.kourdmusic.com/d1/saivangagli/Saywan-Gagli-&-Chawshin-Xarika-Awatem-Amre.mp3",
 			"lyrics": ""
 		},
 		{
@@ -116,15 +116,95 @@
 			"name_category": "Kurdish Songs",
 			"title": "Track 8",
 			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1SDjaUw96xWiGgf1K9Ug5EbsK5-FGj82v",
+			"link_mp3": "https://dl2.kourdmusic.com/mp3/4_6048844064931972931.mp3",
 			"lyrics": ""
 		},
 		{
 			"id": 9,
 			"name_category": "Kurdish Songs",
-			"title": "Track 9",
+			"title": "Track ",
 			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1Ze1O3LZ433_1yHTfKvTctAwcxs_CUNSI",
+			"link_mp3": "https://dl2.kourdmusic.com/mp3/Pourya-Nayeri-Mehdi-Yazdani-Viran.mp3",
+			"lyrics": ""
+			},
+		{
+			"id": 10,
+			"name_category": "Kurdish Songs",
+			"title": "Track 10",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://dl2.kourdmusic.com/mp3/Sajad-Karimi-Faramooshi.mp3",
+			"lyrics": ""
+			},
+		{
+			"id": 11,
+			"name_category": "Kurdish Songs",
+			"title": "Track 11",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://dl2.kourdmusic.com/mp3/Mohammad-Salari-Sarneveshte-Shoom.mp3",
+			"lyrics": ""
+			},
+		{
+			"id": 12,
+			"name_category": "Kurdish Songs",
+			"title": "Track 12",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://dl2.kourdmusic.com/mp3/Mohammad-Salari-Sarneveshte-Shoom.mp3",
+			"lyrics": ""
+			},
+		{
+			"id": 13,
+			"name_category": "Kurdish Songs",
+			"title": "Track 13",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://dl2.kourdmusic.com/mp3/Vahid-Doosti-Parishanem.mp3",
+			"lyrics": ""
+			},
+		{
+			"id": 14,
+			"name_category": "Kurdish Songs",
+			"title": "Track 14",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://www.kourdmusic.com/wp-content/uploads/Naser-Razazi_khalo-Khalo.mp3",
+			"lyrics": ""
+			},
+		{
+			"id": 15,
+			"name_category": "Kurdish Songs",
+			"title": "Track 15",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "http://dl.baranpatogh.ir/newvideo/a1/22.mp3",
+			"lyrics": ""
+			},
+		{
+			"id": 16,
+			"name_category": "Kurdish Songs",
+			"title": "Track 16",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "000",
+			"lyrics": ""
+			},
+		{
+			"id": 17,
+			"name_category": "Kurdish Songs",
+			"title": "Track 17",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://dl2.kourdmusic.com/mp3/Mehrab-Askari-Bi-Vafa.mp3",
+			"lyrics": ""
+			},
+		{
+			"id": 18,
+			"name_category": "Kurdish Songs",
+			"title": "Track 18",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://dl2.kourdmusic.com/mp3/keihan-ba-aseman-va.mp3",
+			"lyrics": ""
+			},
+		{
+			"id": 19,
+			"name_category": "Kurdish Songs",
+			"title": "Track 19",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://www.kourdmusic.com/wp-content/uploads/Naser-Razazi_khalo-Khalo.mp3",
 			"lyrics": ""
 	
 		}
