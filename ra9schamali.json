@@ -12,7 +12,7 @@
       "backup_ads_intertitial":"518cd97722c60b52",
       "backup_ads_rewards":"0000",
       "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
-      "switch_banner_natives_ads":"",
+      "switch_banner_natives_ads":"1",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"123456",
