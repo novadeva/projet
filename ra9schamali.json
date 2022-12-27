@@ -22,7 +22,7 @@
 			"high_paying_keyword_3": "",
 			"high_paying_keyword_4": "",
 			"high_paying_keyword_5": ""
-	}
+		}
 	],
 	"Categories": [
 		{
@@ -51,7 +51,7 @@
 			"id": 1,
 			"name_category": "Album 1",
 			"title": "Track 1",
-			"image": "https://drive.google.com/uc?export=view&id=1nDpZ2hwbtXDZrG35bjyWE9eTxZZhmeVF"
+			"image": "https://drive.google.com/uc?export=view&id=1nDpZ2hwbtXDZrG35bjyWE9eTxZZhmeVF",
 			"link_mp3": "https://drive.google.com/uc?export=view&id=1Kou2eezmojVLgfaQu0AoFW7bBI5oshgV",
 			"lyrics": ""
 		},
@@ -59,7 +59,7 @@
 			"id": 2,
 			"name_category": "Album 1",
 			"title": "Track 2",
-			"image": "https://drive.google.com/uc?export=view&id=1nDpZ2hwbtXDZrG35bjyWE9eTxZZhmeVF"
+			"image": "https://drive.google.com/uc?export=view&id=1nDpZ2hwbtXDZrG35bjyWE9eTxZZhmeVF",
 			"link_mp3": "https://drive.google.com/file/d/1ipX1s5UfcV4ZMcjKnGiLzcdizOP1bDRD/view",
 			"lyrics": ""
 		},
@@ -67,7 +67,7 @@
 			"id": 3,
 			"name_category": "Album 1",
 			"title": "Track 3",
-			"image": "https://drive.google.com/uc?export=view&id=1nDpZ2hwbtXDZrG35bjyWE9eTxZZhmeVF"
+			"image": "https://drive.google.com/uc?export=view&id=1nDpZ2hwbtXDZrG35bjyWE9eTxZZhmeVF",
 			"link_mp3": "https://drive.google.com/uc?export=view&id=1bdOAnDkzIwr8Kz-34rvojOQq7Q7HACCG",
 			"lyrics": ""
 		},
@@ -83,7 +83,7 @@
 			"id": 5,
 			"name_category": "Album 2",
 			"title": "Track 5",
-			"image": "https://drive.google.com/uc?export=view&id=1uceZRTUDq99p5IdkkND2TVAem9SPVvaR"
+			"image": "https://drive.google.com/uc?export=view&id=1uceZRTUDq99p5IdkkND2TVAem9SPVvaR",
 			"link_mp3": "https://drive.google.com/uc?export=view&id=1UfsfTqs60v96CzIG1q3nyha_biFNBbA0",
 			"lyrics": ""
 		},
@@ -91,7 +91,7 @@
 			"id": 6,
 			"name_category": "Album 2",
 			"title": "Track 6",
-			"image": "https://drive.google.com/uc?export=view&id=1uceZRTUDq99p5IdkkND2TVAem9SPVvaR"
+			"image": "https://drive.google.com/uc?export=view&id=1uceZRTUDq99p5IdkkND2TVAem9SPVvaR",
 			"link_mp3": "https://drive.google.com/uc?export=view&id=1jGc2br_8jfYGuH1fxT-X_zjca_NZ_5du",
 			"lyrics": ""
 		},
@@ -99,7 +99,7 @@
 			"id": 7,
 			"name_category": "Album 3",
 			"title": "Track 7",
-			"image": "https://drive.google.com/uc?export=view&id=1S9eYLJ0HPd5cOvme9QO4kOJ3KZBjydsI"
+			"image": "https://drive.google.com/uc?export=view&id=1S9eYLJ0HPd5cOvme9QO4kOJ3KZBjydsI",
 			"link_mp3": "https://drive.google.com/uc?export=view&id=108TYiGCDdQatvUqzDgs-td8vbQLDJaWo",
 			"lyrics": ""
 		},
@@ -107,7 +107,7 @@
 			"id": 8,
 			"name_category": "Album 3",
 			"title": "Track 8",
-			"image": "https://drive.google.com/uc?export=view&id=1S9eYLJ0HPd5cOvme9QO4kOJ3KZBjydsI"
+			"image": "https://drive.google.com/uc?export=view&id=1S9eYLJ0HPd5cOvme9QO4kOJ3KZBjydsI",
 			"link_mp3": "https://drive.google.com/uc?export=view&id=1kcB_737UBK9l12y6_6qb1DX7EuGYRuQm",
 			"lyrics": ""
 		},
@@ -115,15 +115,15 @@
 			"id": 9,
 			"name_category": "Album 3",
 			"title": "Track 9",
-			"image": "https://drive.google.com/uc?export=view&id=1S9eYLJ0HPd5cOvme9QO4kOJ3KZBjydsI"
+			"image": "https://drive.google.com/uc?export=view&id=1S9eYLJ0HPd5cOvme9QO4kOJ3KZBjydsI",
 			"link_mp3": "https://drive.google.com/uc?export=view&id=1vuSYA2439ub8bpg_0vLj8YhKDI1uXf_R",
 			"lyrics": ""
-			},
-			{
-				"id": 10,
-				"name_category": "Album 4",
-				"title": "Track 10",
-			"image": "https://drive.google.com/uc?export=view&id=1lGGDY_xfLC-6UxEoRq8BIgarNZpUSnZI"
+		},
+		{
+			"id": 10,
+			"name_category": "Album 4",
+			"title": "Track 10",
+			"image": "https://drive.google.com/uc?export=view&id=1lGGDY_xfLC-6UxEoRq8BIgarNZpUSnZI",
 			"link_mp3": "https://drive.google.com/uc?export=view&id=1cFeTsbAiMoFB48xsJwCKKeNpVqcE0w96",
 			"lyrics": ""
 		}
