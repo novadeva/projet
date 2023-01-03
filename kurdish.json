@@ -202,6 +202,78 @@
 			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
 			"link_mp3": "https://www.kourdmusic.com/wp-content/uploads/Naser-Razazi_khalo-Khalo.mp3",
 			"lyrics": ""
+			},
+		{
+			"id": 20,
+			"name_category": "Kurdish Songs",
+			"title": "امیرحافظ رنجبر پایتخت ",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://dl.evan-music.ir/music/1401/06/23/Amirhafez%20-%20Paytakht.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 21,
+			"name_category": "Kurdish Songs",
+			"title": "جام شراو ",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://dl.evan-music.ir/music/1401/05/04/Malek-Azizkhani%20-%20Jaame-sheroo.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 22,
+			"name_category": "Kurdish Songs",
+			"title": " یاغی امیر رمضانی ",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://dl.evan-music.ir/music/1401/04/30/yaghi%20-%20remix.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 23,
+			"name_category": "Kurdish Songs",
+			"title": "فردین انگزی ",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://dl.evan-music.ir/music/1401/01/Fardin%20Angazi%20-%20Deltangi%20(320).mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 24,
+			"name_category": "Kurdish Songs",
+			"title": " مهراب بقه ",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://dl.apmusic.ir/music/Music/Mehrab%20Yaghe%20128%20[ApMusic.ir].mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 25,
+			"name_category": "Kurdish Songs",
+			"title": "مهراب دیالوگ ",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://dl.apmusic.ir/music/Music/Mehrab%20Dialogue%20[ApMusic.ir].mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 26,
+			"name_category": "Kurdish Songs",
+			"title": "مهراب غلط کردم ",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://dl.apmusic.ir/music/Music/Mehrab%20Ghalat%20kardam%20[ApMusic.ir].mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 27,
+			"name_category": "Kurdish Songs",
+			"title": "مهراب بیت المال ",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://dl.apmusic.ir/music/Music/Mehrab%20Beitolmaal%20128%20[ApMusic.ir].mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 28,
+			"name_category": "Kurdish Songs",
+			"title": "میلاد سایمون ",
+			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_",
+			"link_mp3": "https://dl.apmusic.ir/music/Music/Farzad%20Shojaei%20&%20Milad%20Saymon%20&%20Mohammad%20NR%20Bonbast%20128%20[ApMusic.ir].mp3",
+			"lyrics": ""
 	
 		}
 	]
