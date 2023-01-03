@@ -30,28 +30,24 @@
 	"Categories": [
 		{
 			"id": 1,
-			"name_category": "Khalid Basalamah",
+			"name_category": "Album 1",
 			"image": "https://drive.google.com/uc?export=view&id=1Gmu6d4rJqoi1OZxZXQHm_lyfHkt2keA_"
 		},
 		{
 			"id": 2,
-			"name_category": "Hanan Attaki",
+			"name_category": "Album 2",
 			"image": "https://drive.google.com/uc?export=view&id=1r5dWsGX1YYRX1C2xwBESL92OatKVHmdl"
 		},
 		{
 			"id": 3,
-			"name_category": "Mr. Kim",
+			"name_category": "Album 3",
 			"image": "https://drive.google.com/uc?export=view&id=1TGT6H9mCdw48HKSkb2MRPg-dITCYuQBT"
 		},
 		{
 			"id": 4,
-			"name_category": "Ammi Nur Bait",
-			"image": "https://drive.google.com/uc?export=view&id=1r5dWsGX1YYRX1C2xwBESL92OatKVHmdl"
-		},
-		{
-			"id": 5,
-			"name_category": "Adi Hidayat",
+			"name_category": "Album 4",
 			"image": "https://drive.google.com/uc?export=view&id=11Q1qpbAJqj-GGjueZl4m2OHOCGuO7VV_"
+		
 		}
 	],
 	"Data": [
