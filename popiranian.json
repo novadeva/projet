@@ -38,12 +38,12 @@
 		{
 			"id": 2,
 			"name_category": "Album 2",
-			"image": "file:///android_asset/image/pic2.jpg"
+			"image": "file:///android_asset/image/pic.jpg"
 		},
 		{
 			"id": 3,
 			"name_category": "Album 3",
-			"image": "file:///android_asset/image/pic3.jpg"
+			"image": "file:///android_asset/image/pic.jpg"
 		
 		}
 	],
@@ -76,7 +76,7 @@
 			"id": 4,
 			"name_category": "Album 2",
 			"title": "Track 4",
-			"image": "file:///android_asset/image/pic2.jpg",
+			"image": "file:///android_asset/image/pic.jpg",
 			"link_mp3": "https://drive.google.com/uc?export=view&id=1GlUccIGmWZsHfrIu3_ilToz5zTr6x3Z9",
 			"lyrics": ""
 		},
@@ -84,7 +84,7 @@
 			"id": 5,
 			"name_category": "Album 2",
 			"title": "Track 5",
-			"image": "file:///android_asset/image/pic2.jpg",
+			"image": "file:///android_asset/image/pic.jpg",
 			"link_mp3": "https://drive.google.com/uc?export=view&id=1wMTBYnyDLG21UdwJmXJ-GwukEcMIp7Ib",
 			"lyrics": ""
 		},
@@ -92,7 +92,7 @@
 			"id": 6,
 			"name_category": "Album 2",
 			"title": "Track 6",
-			"image": "file:///android_asset/image/pic2.jpg",
+			"image": "file:///android_asset/image/pic.jpg",
 			"link_mp3": "https://drive.google.com/uc?export=view&id=1U2_-5a1aWHu9Zuvixyf5ZnaZIsNvC0f0",
 			"lyrics": ""
 		},
@@ -100,7 +100,7 @@
 			"id": 7,
 			"name_category": "Album 3",
 			"title": "Track 7",
-			"image": "file:///android_asset/image/pic3.jpg",
+			"image": "file:///android_asset/image/pic.jpg",
 			"link_mp3": "https://drive.google.com/uc?export=view&id=1HUxzpwGLATB8rdG76KAQGlLrru3J1AJB",
 			"lyrics": ""
 		},
@@ -108,7 +108,7 @@
 			"id": 8,
 			"name_category": "Album 3",
 			"title": "Track 8",
-			"image": "file:///android_asset/image/pic3.jpg",
+			"image": "file:///android_asset/image/pic.jpg",
 			"link_mp3": "https://drive.google.com/uc?export=view&id=1zUSq61UD-K_8ITED4uYt7g72nupy8RPD",
 			"lyrics": ""
 		},
@@ -116,7 +116,7 @@
 			"id": 9,
 			"name_category": "Album 3",
 			"title": "Track 9",
-			"image": "file:///android_asset/image/pic3.jpg",
+			"image": "file:///android_asset/image/pic.jpg",
 			"link_mp3": "https://drive.google.com/uc?export=view&id=1KTM_uVW9J84kiComLZxt-CCnxU-Hw-2N",
 			"lyrics": ""
 		},
@@ -124,7 +124,7 @@
 			"id": 10,
 			"name_category": "Album 4",
 			"title": "Track 10",
-			"image": "file:///android_asset/image/pic3.jpg",
+			"image": "file:///android_asset/image/pic.jpg",
 			"link_mp3": "https://drive.google.com/uc?export=view&id=1uzc1M_K9g6ioai_2cn8NXv5uZhQoU6vD",
 			"lyrics": ""
 		}
