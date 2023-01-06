@@ -53,7 +53,7 @@
 			"name_category": "Album 1",
 			"title": "Track 1",
 			"image": "file:///android_asset/image/pic.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1LbvNlEKgtgXbL5KgnKp8VU54saO7i75j",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A1.mp3",
 			"lyrics": ""
 
 		},
@@ -62,7 +62,7 @@
 			"name_category": "Album 1",
 			"title": "Track 2",
 			"image": "file:///android_asset/image/pic.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=12B3PwvQ6n8ll5bcBm2f75z2PjRbOa3Q_",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A2.mp3",
 			"lyrics": ""
 		},
 		{
@@ -70,7 +70,7 @@
 			"name_category": "Album 1",
 			"title": "Track 3",
 			"image": "file:///android_asset/image/pic.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1H4Pu-q06HzjE5ySqEtE9uNu3rmmujb--",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A3.mp3",
 			"lyrics": ""
 		},
 		{
@@ -78,7 +78,7 @@
 			"name_category": "Album 2",
 			"title": "Track 4",
 			"image": "file:///android_asset/image/pic.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1t6Dz4GRPN_6uYohzTfjLwQBn1sivu6AE",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A4.mp3",
 			"lyrics": ""
 		},
 		{
@@ -86,7 +86,7 @@
 			"name_category": "Album 2",
 			"title": "Track 5",
 			"image": "file:///android_asset/image/pic.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1Tor_ZwyJlLkDeqKSDbVSXV2VJdlej3VG",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A5.mp3",
 			"lyrics": ""
 		},
 		{
@@ -94,7 +94,7 @@
 			"name_category": "Album 2",
 			"title": "Track 6",
 			"image": "file:///android_asset/image/pic.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1PuFTcSF4NWEPgf4Yoi53Ino-hYhYA-8L",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A6.mp3",
 			"lyrics": ""
 		},
 		{
@@ -102,7 +102,7 @@
 			"name_category": "Album 3",
 			"title": "Track 7",
 			"image": "file:///android_asset/image/pic.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=13Be2K_zBcBlSCVDpICcx_Qw7V_NWjK4t",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A7.mp3",
 			"lyrics": ""
 		},
 		{
@@ -110,7 +110,7 @@
 			"name_category": "Album 3",
 			"title": "Track 8",
 			"image": "file:///android_asset/image/pic.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1g5UVtJXMpZJjtE6aaPwxt7XXrWI4gfGA",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A8.mp3",
 			"lyrics": ""
 		},
 		{
@@ -118,7 +118,7 @@
 			"name_category": "Album 3",
 			"title": "Track 9",
 			"image": "file:///android_asset/image/pic.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1aDmJiazfDA6V5acW286Rn-Z-25X7HFnG",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A9.mp3",
 			"lyrics": ""
 		},
 		{
@@ -126,7 +126,127 @@
 			"name_category": "Album 4",
 			"title": "Track 10",
 			"image": "file:///android_asset/image/pic.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1Xs6bWIMq9MbbrFD1LXGb94oTuN1fncqc",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A10.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 11,
+			"name_category": "Album 4",
+			"title": "Track 10",
+			"image": "file:///android_asset/image/pic.jpg",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A11.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 12,
+			"name_category": "Album 4",
+			"title": "Track 10",
+			"image": "file:///android_asset/image/pic.jpg",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A12.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 13,
+			"name_category": "Album 4",
+			"title": "Track 10",
+			"image": "file:///android_asset/image/pic.jpg",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A13.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 14,
+			"name_category": "Album 4",
+			"title": "Track 10",
+			"image": "file:///android_asset/image/pic.jpg",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A14.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 15,
+			"name_category": "Album 4",
+			"title": "Track 10",
+			"image": "file:///android_asset/image/pic.jpg",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A15.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 16,
+			"name_category": "Album 4",
+			"title": "Track 10",
+			"image": "file:///android_asset/image/pic.jpg",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A16.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 17,
+			"name_category": "Album 1",
+			"title": "Track 10",
+			"image": "file:///android_asset/image/pic.jpg",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A17.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 18,
+			"name_category": "Album 1",
+			"title": "Track 10",
+			"image": "file:///android_asset/image/pic.jpg",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A18.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 19,
+			"name_category": "Album 1",
+			"title": "Track 10",
+			"image": "file:///android_asset/image/pic.jpg",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A19.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 20,
+			"name_category": "Album 1",
+			"title": "Track 10",
+			"image": "file:///android_asset/image/pic.jpg",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A20.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 21,
+			"name_category": "Album 1",
+			"title": "Track 10",
+			"image": "file:///android_asset/image/pic.jpg",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A21.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 22,
+			"name_category": "Album 1",
+			"title": "Track 10",
+			"image": "file:///android_asset/image/pic.jpg",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A22.mp3",
+			"lyrics": ""
+					},
+		{
+			"id": 23,
+			"name_category": "Album 1",
+			"title": "Track 10",
+			"image": "file:///android_asset/image/pic.jpg",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A23.mp3",
+			"lyrics": ""
+					},
+		{
+			"id": 24,
+			"name_category": "Album 1",
+			"title": "Track 10",
+			"image": "file:///android_asset/image/pic.jpg",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A24.mp3",
+			"lyrics": ""
+					},
+		{
+			"id": 25,
+			"name_category": "Album 1",
+			"title": "Track 10",
+			"image": "file:///android_asset/image/pic.jpg",
+			"link_mp3": "https://ia904708.us.archive.org/31/items/a-ghamiguin/A25.mp3",
 			"lyrics": ""
 		}
 	]
