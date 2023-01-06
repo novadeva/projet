@@ -3,13 +3,13 @@
     {
       "select_main_ads": "none",
       "select_backup_ads":"UNITY",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "0000",
+      "main_ads_intertitial":"0000",
       "main_ads_intertitial2":"0000",
       "use_2_inter":"2",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "main_ads_natives":"0000",
+      "main_ads_rewards":"0000",
+      "open_ads_admob":"0000",
       "backup_ads_natives":"0000",
       "backup_ads_banner":"0000",
       "backup_ads_intertitial":"0000",
@@ -29,7 +29,7 @@
       "link_redirect": "https://"
 		}
 	],
-	"Categories": [
+		"Categories": [
 		{
 			"id": 1,
 			"name_category": "Album 1",
@@ -51,82 +51,163 @@
 		{
 			"id": 1,
 			"name_category": "Album 1",
-			"title": "Track 1",
+			"title": "Aron Afshar - Giso Parishan",
 			"image": "file:///android_asset/image/pic.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1dd_26UaTY-D5XCd1Ea7tO3BF2DCMXeZ3",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a1.mp3",
 			"lyrics": ""
 		},
 		{
 			"id": 2,
 			"name_category": "Album 1",
-			"title": "Track 2",
+			"title": "Aron Afshar - Janam Bash",
 			"image": "file:///android_asset/image/pic.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1X7C7o6liHJwE28GbpUHb8kJ25oAMkmNE",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a2.mp3",
 			"lyrics": ""
 		},
 		{
 			"id": 3,
 			"name_category": "Album 1",
-			"title": "Track 3",
+			"title": "Aron Afshar - Shabe Royaei",
 			"image": "file:///android_asset/image/pic.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1CwAfZgTk2Hpsv1xcT2LomDiJHrfFnPEn",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a3.mp3",
 			"lyrics": ""
 		},
 		{
 			"id": 4,
-			"name_category": "Album 2",
-			"title": "Track 4",
-			"image": "file:///android_asset/image/pic2.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1EvECTW82RW0EleLPNpxBdHSZW2FXVc13",
+			"name_category": "Album 1",
+			"title": "Aron Afshar - Tabibe Maher",
+			"image": "file:///android_asset/image/pic.jpg",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a4.mp3",
 			"lyrics": ""
 		},
 		{
 			"id": 5,
 			"name_category": "Album 2",
-			"title": "Track 5",
+			"title": "Behnam Bani - Faghat Boro",
 			"image": "file:///android_asset/image/pic2.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1iaz6Ap0JO-2HnUdRauIhOJ7Xfaulwuur",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a5.mp3",
 			"lyrics": ""
 		},
 		{
 			"id": 6,
 			"name_category": "Album 2",
-			"title": "Track 6",
+			"title": "Behnam Bani - Khabeto Didam",
 			"image": "file:///android_asset/image/pic2.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=18lQMcj2tDYOxdd6BZ0X9S02-PfRZQRZ3",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a6.mp3",
 			"lyrics": ""
 		},
 		{
 			"id": 7,
-			"name_category": "Album 3",
-			"title": "Track 7",
+			"name_category": "Album 2",
+			"title": "Behnam Bani - Toyi Entekhabam",
 			"image": "file:///android_asset/image/pic3.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1JLvkXIVGhpFQ_aXlIoyCp0gMisrgibbg",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a7.mp3",
 			"lyrics": ""
 		},
 		{
 			"id": 8,
 			"name_category": "Album 3",
-			"title": "Track 8",
+			"title": "Evan Band - Alijenab ",
 			"image": "file:///android_asset/image/pic3.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1CQ7KJukw7M0XTHcgD02h0Zdu8KiBGIJf",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a8.mp3",
 			"lyrics": ""
 		},
 		{
 			"id": 9,
 			"name_category": "Album 3",
-			"title": "Track 9",
+			"title": "Evan Band - To Ke Maroufi",
 			"image": "file:///android_asset/image/pic3.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1uLu0AuBjVyU2qKjoQ20C5izNtgXOwqd6",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a9.mp3",
 			"lyrics": ""
 		},
 		{
 			"id": 10,
-			"name_category": "Album 4",
-			"title": "Track 10",
+			"name_category": "Album 3",
+			"title": "Farzad Farzin - Asheghaneh",
 			"image": "file:///android_asset/image/pic3.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1pyUczB6_cAoOX5N7DE5gshdC0p4tRG2T",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a10.mp3",
 			"lyrics": ""
+			},
+		{
+			"id": 11,
+			"name_category": "Album 3",
+			"title": "Hamid Hiraad - Khoda",
+			"image": "file:///android_asset/image/pic3.jpg",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a11.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 12,
+			"name_category": "Album 3",
+			"title": "Hamid Hiraad & Ragheb - Jazzab ",
+			"image": "file:///android_asset/image/pic3.jpg",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a12.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 13,
+			"name_category": "Album 4",
+			"title": "Kasra Zahedi - Zabanam Lal",
+			"image": "file:///android_asset/image/pic3.jpg",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a13.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 14,
+			"name_category": "Album 4",
+			"title": "MACAN Band - Ye Lahze Negam Kon ",
+			"image": "file:///android_asset/image/pic3.jpg",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a14.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 15,
+			"name_category": "Album 4",
+			"title": "Masih & Arash Ap - Booye Shomal ",
+			"image": "file:///android_asset/image/pic3.jpg",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a15.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 16,
+			"name_category": "Album 4",
+			"title": "Masih & Arash Ap - Darya ",
+			"image": "file:///android_asset/image/pic3.jpg",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a16.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 17,
+			"name_category": "Album 4",
+			"title": "Masih & Arash Ap - Goli ",
+			"image": "file:///android_asset/image/pic3.jpg",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a17.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 18,
+			"name_category": "Album 4",
+			"title": "Mehraad Jam - Shik o Pik",
+			"image": "file:///android_asset/image/pic3.jpg",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a18.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 19,
+			"name_category": "Album 1",
+			"title": "Meysam Ebrahimi - Jono Delam",
+			"image": "file:///android_asset/image/pic1.jpg",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a19.mp3",
+			"lyrics": ""
+				},
+		{
+			"id": 20,
+			"name_category": "Album 1",
+			"title": "Reza Sadeghi - Hame On Rooza",
+			"image": "file:///android_asset/image/pic1.jpg",
+			"link_mp3": "https://ia904702.us.archive.org/16/items/a5_ir/a20.mp3",
+			"lyrics": ""
+
 		}
 	]
 }
