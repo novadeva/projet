@@ -1,0 +1,203 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"UNITY",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_intertitial2":"0000",
+      "use_2_inter":"2",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "open_ads_admob":"0000",
+      "backup_ads_natives":"0000",
+      "backup_ads_banner":"0000",
+      "backup_ads_intertitial":"0000",
+      "backup_ads_intertitial2":"0000",
+
+      "backup_ads_rewards":"0000",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+	  "link_more_app": "https://sinovamix.wallsooft.com/sherali/appromote.json",
+      "link_redirect": "https://"
+		}
+	],
+	"Categories": [
+    {
+      "id": 1,
+      "name_category": "Morteza Jafarzadeh",
+      "image": "file:///android_asset/image/pic.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Morteza Jafarzadeh",
+      "image": "file:///android_asset/image/pic2.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Morteza Jafarzadeh",
+      "image": "file:///android_asset/image/pic3.jpg"
+
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "Bi Ehsas",
+      "image": "file:///android_asset/image/pic.jpg",
+      "link_mp3": "mp3/music1.mp3",
+      "lyrics":"000"
+    },
+    {
+      "id": 2,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "Aroom Aroom",
+      "image": "file:///android_asset/image/pic.jpg",
+      "link_mp3": "mp3/music2.mp3",
+      "lyrics":"000"
+    },
+    {
+      "id": 3,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "Velam nakon",
+      "image": "file:///android_asset/image/pic.jpg",
+      "link_mp3": "mp3/music3.mp3",
+      "lyrics":"000"
+    },
+    {
+      "id": 4,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "Eshghe Birahm",
+      "image": "file:///android_asset/image/pic.jpg",
+      "link_mp3": "mp3/music4.mp3",
+      "lyrics":"000"
+    },
+    {
+      "id": 5,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "Mimiram",
+      "image": "file:///android_asset/image/pic.jpg",
+      "link_mp3": "mp3/music5.mp3",
+      "lyrics":"000"
+    },
+    {
+      "id": 6,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "Bivafa",
+      "image": "file:///android_asset/image/pic.jpg",
+      "link_mp3": "mp3/music6.mp3",
+      "lyrics":"000"
+    },
+    {
+      "id": 7,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "Dadashi",
+      "image": "file:///android_asset/image/pic2.jpg",
+      "link_mp3": "mp3/music7.mp3",
+      "lyrics":"000"
+    },
+    {
+      "id": 8,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "Divooneh",
+      "image": "file:///android_asset/image/pic2.jpg",
+      "link_mp3": "mp3/music8.mp3",
+      "lyrics":"000"
+    },
+    {
+      "id": 9,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "Edami ",
+      "image": "file:///android_asset/image/pic2.jpg",
+      "link_mp3": "mp3/music9.mp3",
+      "lyrics":"000"
+    },
+    {
+      "id": 10,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "Gholo Gharar",
+      "image": "file:///android_asset/image/pic2.jpg",
+      "link_mp3": "mp3/music10.mp3",
+      "lyrics":"000"
+    },
+    {
+      "id": 11,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "Khaste",
+      "image": "file:///android_asset/image/pic2.jpg",
+      "link_mp3": "mp3/music11.mp3",
+      "lyrics":"000"
+    },
+    {
+      "id": 12,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "Mosafer",
+      "image": "file:///android_asset/image/pic2.jpg",
+      "link_mp3": "mp3/music12.mp3",
+      "lyrics":"000"
+    },
+    {
+      "id": 13,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "MNafas Jan",
+      "image": "file:///android_asset/image/pic3.jpg",
+      "link_mp3": "mp3/music13.mp3",
+      "lyrics":"000"
+    },
+    {
+      "id": 14,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "Tanhayi",
+      "image": "file:///android_asset/image/pic3.jpg",
+      "link_mp3": "mp3/music14.mp3",
+      "lyrics":"000"
+    },
+    {
+
+      "id": 15,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "Vahemeh",
+      "image": "file:///android_asset/image/pic3.jpg",
+      "link_mp3": "mp3/music15.mp3",
+      "lyrics":"000"
+    },
+    {
+
+      "id": 16,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "To Choei",
+      "image": "file:///android_asset/image/pic3.jpg",
+      "link_mp3": "mp3/music16.mp3",
+      "lyrics":"000"
+    },
+    {
+
+      "id": 17,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "Morteza Jafarzadeh",
+      "image": "file:///android_asset/image/pic3.jpg",
+      "link_mp3": "mp3/music17.mp3",
+      "lyrics":"000"
+    },
+    {
+
+      "id": 18,
+      "name_category": "Morteza Jafarzadeh",
+      "title": "Morteza Jafarzadeh",
+      "image": "file:///android_asset/image/pic3.jpg",
+      "link_mp3": "mp3/music18.mp3",
+      "lyrics":"000"
+
+
+    }
+  ]
+}
