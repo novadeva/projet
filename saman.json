@@ -1,127 +1,36 @@
 {
-	"Ads": [
-		{
-			"select_main_ads": "ADMOB",
-			"select_backup_ads": "APPLOVIN-M",
-			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
-			"main_ads_intertitial_2": "ca-app-pub-3940256099942544/1033173712",
-			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
-			"backup_ads_natives": "",
-			"backup_ads_banner": "db4d5e8718b97d78",
-			"backup_ads_intertitial": "518cd97722c60b52",
-			"backup_ads_intertitial_2": "518cd97722c60b52",
-			"backup_ads_rewards": "",
-			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
-			"switch_banner_natives_ads": "1",
-			"interval_intertitial": 2,
-			"initialize_sdk": "107355779",
-			"initialize_sdk_backup_ads": "123456",
-			"high_paying_keyword_1": "",
-			"high_paying_keyword_2": "",
-			"high_paying_keyword_3": "",
-			"high_paying_keyword_4": "",
-			"high_paying_keyword_5": ""
-		}
-	],
-	"Categories": [
-		{
-			"id": 1,
-			"name_category": "Album 1",
-			"image": "file:///android_asset/image/pic.jpg"
-		},
-		{
-			"id": 2,
-			"name_category": "Album 2",
-			"image": "file:///android_asset/image/pic2.jpg"
-		},
-		{
-			"id": 3,
-			"name_category": "Album 3",
-			"image": "file:///android_asset/image/pic3.jpg"
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-AD",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_intertitial2":"000",
+      "use_2_inter":"2",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"000",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "backup_ads_natives":"0000",
+      "backup_ads_banner":"0000",
+      "backup_ads_intertitial":"0000",
+      "backup_ads_intertitial2":"0000",
+
+      "backup_ads_rewards":"0000",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_more_app": "https://",
+      "link_redirect": "https://"
 		
-		}
-	],
-	"Data": [
-		{
-			"id": 1,
-			"name_category": "Album 1",
-			"title": "Track 1",
-			"image": "file:///android_asset/image/pic.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1IPZPXDTK69O9YH4BwXFJp7ZRGJMgfTVL",
-			"lyrics": ""
-		},
-		{
-			"id": 2,
-			"name_category": "Album 1",
-			"title": "Track 2",
-			"image": "file:///android_asset/image/pic.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1OaDFTlNSvpL3TMlFnu-kJnpfSFDUBp5Q",
-			"lyrics": ""
-		},
-		{
-			"id": 3,
-			"name_category": "Album 1",
-			"title": "Track 3",
-			"image": "file:///android_asset/image/pic.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1SOZclr4mvU1WXmzwvcw3SGAXlXuDG_-B",
-			"lyrics": ""
-		},
-		{
-			"id": 4,
-			"name_category": "Album 2",
-			"title": "Track 4",
-			"image": "file:///android_asset/image/pic2.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1GlUccIGmWZsHfrIu3_ilToz5zTr6x3Z9",
-			"lyrics": ""
-		},
-		{
-			"id": 5,
-			"name_category": "Album 2",
-			"title": "Track 5",
-			"image": "file:///android_asset/image/pic2.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1wMTBYnyDLG21UdwJmXJ-GwukEcMIp7Ib",
-			"lyrics": ""
-		},
-		{
-			"id": 6,
-			"name_category": "Album 2",
-			"title": "Track 6",
-			"image": "file:///android_asset/image/pic2.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1U2_-5a1aWHu9Zuvixyf5ZnaZIsNvC0f0",
-			"lyrics": ""
-		},
-		{
-			"id": 7,
-			"name_category": "Album 3",
-			"title": "Track 7",
-			"image": "file:///android_asset/image/pic3.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1HUxzpwGLATB8rdG76KAQGlLrru3J1AJB",
-			"lyrics": ""
-		},
-		{
-			"id": 8,
-			"name_category": "Album 3",
-			"title": "Track 8",
-			"image": "file:///android_asset/image/pic3.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1zUSq61UD-K_8ITED4uYt7g72nupy8RPD",
-			"lyrics": ""
-		},
-		{
-			"id": 9,
-			"name_category": "Album 3",
-			"title": "Track 9",
-			"image": "file:///android_asset/image/pic3.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1KTM_uVW9J84kiComLZxt-CCnxU-Hw-2N",
-			"lyrics": ""
-		},
-		{
-			"id": 10,
-			"name_category": "Album 4",
-			"title": "Track 10",
-			"image": "file:///android_asset/image/pic3.jpg",
-			"link_mp3": "https://drive.google.com/uc?export=view&id=1uzc1M_K9g6ioai_2cn8NXv5uZhQoU6vD",
-			"lyrics": ""
-		}
-	]
+
+
+    }
+  ]
 }
